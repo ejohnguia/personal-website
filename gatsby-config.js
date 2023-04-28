@@ -5,9 +5,8 @@ module.exports = {
     title: 'Ezra John Guia',
     description:
       'Ezra John Guia is a DevOps specialist who excels in delivering software through the use of efficient and collaborative software development practices.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://ezrajohnguia.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    // twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
