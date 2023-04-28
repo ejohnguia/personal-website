@@ -70,7 +70,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software developer DevOps specialist focused on fast teamwork to deliver exceptional
-        digital experiences{' '}
+        digital experiences at{' '}
         <a href="https://www.bell.ca/" target="_blank" rel="noreferrer">
           Bell
         </a>
