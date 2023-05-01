@@ -63,14 +63,15 @@ const Hero = () => {
   const two = <h2 className="big-heading">Ezra John Guia.</h2>;
   const three = (
     <h3 className="big-heading">
-      I provide fast software delivery through teamwork between developers and operations
+      I automate software delivery and deployment by collaborating with development and operations
+      teams.
     </h3>
   );
   const four = (
     <>
       <p>
-        I’m a software developer DevOps specialist focused on fast teamwork to deliver exceptional
-        digital experiences at{' '}
+        I'm a software developer, DevOps specialist, dedicated to promoting agile collaboration and
+        rapid execution to achieve efficient and reliable software delivery at{' '}
         <a href="https://www.bell.ca/" target="_blank" rel="noreferrer">
           Bell
         </a>

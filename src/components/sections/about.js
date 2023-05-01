@@ -135,16 +135,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ezra and I enjoy leveraging DevOps practices to create and deliver
-              software. My interest in DevOps is started when I began to realize the benefits of
-              fast collaboration and automation in software delivery.
+              Greetings! I'm Ezra and I'm passionate about utilizing DevOps principles to develop
+              and deliver software. My fascination with DevOps started when I experienced the
+              advantages of swift collaboration and automation in software delivery.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.cenovus.com/">an oil and gas corporation</a>. My main focus these
-              days is building cross-functional teams to ensure well-structured and tested code
-              while streamlining the deployment process at <a href="https://www.bell.ca/">Bell</a>.
+              Currently, I'm working at <a href="https://www.bell.ca/">Bell</a>, where my primary
+              focus is to create cross-functional teams and establish well-structured and thoroughly
+              tested code to optimize the deployment process. As a DevOps practitioner, I'm
+              constantly exploring and implementing new technologies to improve our software
+              delivery pipeline.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
