@@ -63,8 +63,7 @@ const Hero = () => {
   const two = <h2 className="big-heading">Ezra John Guia.</h2>;
   const three = (
     <h3 className="big-heading">
-      I automate software delivery and deployment by collaborating with development and operations
-      teams.
+      I automate infrastructure, collaborate with developers, and monitor performance.
     </h3>
   );
   const four = (
