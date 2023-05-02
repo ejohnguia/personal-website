@@ -13,4 +13,4 @@ company: 'University of Calgary'
 showInProjects: true
 ---
 
-A dynamic pixel character was designed to move up and down the game and collect items, while a backend module was developed to track and manage user scores.
+The project involved bare metal programming on the Raspberry Pi, connecting a breadboard to the GPIO pins to generate in-game light events, programming an SNES controller for character control, and implementing a Raspberry Pi-based maze game.
