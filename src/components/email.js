@@ -38,7 +38,7 @@ const StyledLinkWrapper = styled.div`
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
     <StyledLinkWrapper>
-      <a href={`mailto:${Linkedin}`}>{Linkedin}</a>
+      <a href={Linkedin}>{Linkedin}</a>
     </StyledLinkWrapper>
   </Side>
 );
