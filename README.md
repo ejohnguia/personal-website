@@ -1,22 +1,15 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/ejohnguia/personal-website/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Ezra John Guia's Personal Site
+  My Personal Site
 </h1>
-<p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
 
 <p align="center">
   <a href="https://app.netlify.com/sites/ezrajohnguia/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/5ee4f630-c9af-48b3-89c0-038963c6746a/deploy-status" alt="Netlify Status" />
   </a>
 </p>
-
-## 👏 Credits
-
-Credit to [Brittany Chiang](https://brittanychiang.com)!
 
 ## 🛠 Installation & Set Up
 
@@ -70,3 +63,7 @@ Credit to [Brittany Chiang](https://brittanychiang.com)!
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+## 👏 Credits
+
+Credits to [Brittany Chiang](https://brittanychiang.com) for the amazing template!
