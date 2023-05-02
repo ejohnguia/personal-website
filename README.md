@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## Credits
+## 👏 Credits
 
 Credit to [Brittany Chiang](https://brittanychiang.com)!
 
