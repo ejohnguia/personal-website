@@ -126,14 +126,15 @@ const About = () => {
   }, []);
 
   const skills = [
-    'GitLab',
+    'Azure',
+    'AWS',
+    'GitHub',
     'Python',
     'Bash',
+    'PowerShell',
     'Terraform',
     'Ansible',
-    'AWS',
-    'Azure',
-    'Google Cloud Platform',
+    'Prometheus',
   ];
 
   return (
